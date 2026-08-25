@@ -57,4 +57,4 @@ st.dataframe(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.info("💡 **Pro Tip for Adam/Ops:** Look out for events at *Pier Sixty*, *Pier 36*, or *Convene*. These are prime targets for Clutch Venues to pitch overflow spaces or after-party hosting.")
+st.sidebar.info("💡 **Pro Tip:** Look out for events at *Pier Sixty*, *Pier 36*, or *Convene*. These are prime targets for Clutch Venues to pitch overflow spaces or after-party hosting.")
